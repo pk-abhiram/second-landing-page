@@ -1,0 +1,195 @@
+.custom-size-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1400px;
+}
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 734px;
+  width: 196px;
+}
+.group-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 79px;
+  margin-left: 6.78px;
+  margin-top: 609px;
+  min-width: 123px;
+}
+.group-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 45px;
+  min-width: 196px;
+}
+.group-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-bottom: 186px;
+  margin-left: 242px;
+  min-width: 211px;
+}
+.night-sky {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -1.28px;
+  line-height: 32px;
+  min-height: 41px;
+  min-width: 150px;
+  white-space: nowrap;
+}
+.number {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 65px;
+  font-weight: 700;
+  left: 0px;
+  letter-spacing: -2.6px;
+  line-height: 65px;
+  position: absolute;
+  top: 0px;
+  white-space: nowrap;
+}
+.overlap-group {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/607d1fb9d0577f10c97be4db/releases/607d3ad709aa0861adcbcf6e/img/landing-bg@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 998px;
+  min-width: 1495px;
+  padding: 39px 126.2px;
+}
+.overlap-group1 {
+  height: 23px;
+  position: relative;
+  width: 23px;
+}
+.overlap-group1-1 {
+  align-self: flex-end;
+  height: 41px;
+  margin-left: 10px;
+  position: relative;
+  width: 36px;
+}
+.overlap-group2 {
+  height: 81px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 123px;
+}
+.path-10 {
+  align-self: center;
+  height: 39px;
+  margin-left: 46px;
+  margin-top: 0.01px;
+  object-fit: cover;
+  width: 39px;
+}
+.path-11 {
+  height: 39px;
+  margin-left: 47px;
+  object-fit: cover;
+  width: 40px;
+}
+.path-6 {
+  height: 30px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 36px;
+}
+.path-8 {
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+.path-9 {
+  height: 5px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.polygon-1 {
+  height: 32px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+.text-1 {
+  color: var(--white);
+  font-family: 'Montserrat', Helvetica;
+  font-size: 33px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: -1.32px;
+  line-height: 33px;
+  opacity: 0.75;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+.title {
+  align-self: center;
+  color: var(--white);
+  font-family: 'GreatWishes-Regular', Helvetica;
+  font-size: 107px;
+  letter-spacing: -4.28px;
+  line-height: 107px;
+  margin-bottom: 134px;
+  margin-left: 187px;
+  min-height: 212px;
+  min-width: 320px;
+  text-shadow: 0px 10px 30px rgba(0, 0, 0, 1);
+  white-space: nowrap;
+  opacity: 0;
+  filter: blur(10px);
+}
+.x002-instagram {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/607d1fb9d0577f10c97be4db/releases/607d36688a6cacdb7f465217/img/path-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  min-width: 39px;
+  padding: 6.7px 6.7px;
+}
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700');
+
+@font-face {
+  font-family: 'GreatWishes-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://fonts.animaapp.com/GreatWishes-Regular') format('opentype');
+}
+* {
+  box-sizing: border-box;
+}
+:root {
+  --font-family-greatwishes-regular: 'GreatWishes-Regular', Helvetica;
+  --font-family-montserrat: 'Montserrat', Helvetica;
+  --font-size-l: 33px;
+  --font-size-m: 32px;
+  --font-size-xl: 65px;
+  --font-size-xxl: 107px;
+  --white: rgba(255, 255, 255, 1);
+}
