@@ -1,7 +1,9 @@
 # second-landing-page
 Second Landing Page(Destinations)
 ![Screenshot](screenshot.png)
-
+<br/>
+Destinations
+![Screenshot](screenshot2.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
